@@ -1,0 +1,327 @@
+[
+    {
+        "id": 0,
+        "brand": "Hoco",
+        "name": "Зарядное устройство “C76A Speed source” PD3.0 EU Type-C набор с кабелем",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ff6b41785fe6.jpg",
+        "price": "149 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 1,
+        "brand": "Xiaomi",
+        "name": "Смарт браслет Xiaomi Mi Band 5 (Русское Меню)",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5f117f8f3893d.jpg",
+        "price": "299 000 сум",
+        "feedback": "22 отзывов"
+    },{
+        "id": 2,
+        "brand": "Samsung",
+        "name": "Планшет Samsung Galaxy Tab A 10.1 Black",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15c11cb8a53.jpg",
+        "price": "2 622 000 сум",
+        "feedback": "14 отзывов"
+    },{
+        "id": 3,
+        "brand": "Hoco",
+        "name": "Наушники Hoco M1 Original Series, белый",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5f01af885a99a.png",
+        "price": "39 000 сум",
+        "feedback": "6 отзывов"
+    },{
+        "id": 4,
+        "brand": "Nia",
+        "name": "Беспроводные наушники Nia-X10 Red",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//60793998ae884.png",
+        "price": "399 000 сум",
+        "feedback": "6 отзывов"
+    },{
+        "id": 5,
+        "brand": "Xiaomi",
+        "name": "Смарт браслет Xiaomi Mi Band 6 (Глобальная версия, Русское Меню)",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//607fd60fd7501.jpg",
+        "price": "499 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 6,
+        "brand": "Hoco",
+        "name": "Наушники Hoco M40 Prosody ХИТ ПРОДАЖ!",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5fd07af09cc8c.jpg",
+        "price": "50 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 7,
+        "brand": "Hoco",
+        "name": "Беспроводное зарядное устройство Hoco CW16 для Apple Watch",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5fe70387d8729.jpg",
+        "price": "199 000 сум",
+        "feedback": "1 отзывов"
+    },{
+        "id": 8,
+        "brand": "Nia",
+        "name": "Беспроводные наушники Nia-X10 White",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//60793a4a8aef9.jpg",
+        "price": "399 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 9,
+        "brand": "Nia",
+        "name": "Беспроводные наушники Nia-X10 Black",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//60793b522a85b.jpg",
+        "price": "399 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 10,
+        "brand": "Xiaomi",
+        "name": "Смарт браслет Xiaomi Mi Band 4 (Русское Меню)",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15c1a7a9142.jpg",
+        "price": "269 000 сум",
+        "feedback": "10 отзывов"
+    },{
+        "id": 11,
+        "brand": "Samsung",
+        "name": "Смартфон Samsung Galaxy A72 8/256GB Black",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//606ee535400a7.jpg",
+        "price": "5 404 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 12,
+        "brand": "LG Electronics",
+        "name": "Телевизор LG 65SM8600 NanoCell 4K UHD Smart TV",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15c26c034ad.jpg",
+        "price": "15 943 000 сум",
+        "feedback": "6 отзывов"
+    },{
+        "id": 13,
+        "brand": "LG Electronics",
+        "name": "Телевизор LG 43LM5500 Full HD",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bd56b0f4c.png",
+        "price": "3 306 000 сум",
+        "feedback": "8 отзывов"
+    },{
+        "id": 14,
+        "brand": "Sony",
+        "name": "Телевизор Sony KDL-43WF665 Full HD Smart TV",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ea6a51b671d1.jpg",
+        "price": "4 387 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 15,
+        "brand": "Artel",
+        "name": "Телевизор Artel UA32H4101 LED TV",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e902cce6eb96.jpg",
+        "price": "2 001 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 16,
+        "brand": "LG Electronics",
+        "name": "Телевизор LG 43LM5700 Full HD Smart TV",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ec35f5ec2529.jpg",
+        "price": "3 745 000 сум",
+        "feedback": "3 отзывов"
+    },{
+        "id": 17,
+        "brand": "LG Electronics",
+        "name": "Телевизор LG 49UM7490 4K UHD Smart TV",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bfc1f1e92.jpg",
+        "price": "5 725 000 сум",
+        "feedback": "1 отзывов"
+    },{
+        "id": 18,
+        "brand": "LG Electronics",
+        "name": "Телевизор LG OLED65C9P 4K UHD Smart TV",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bc4a8ef80.jpg",
+        "price": "26 322 000 сум",
+        "feedback": "28 отзывов"
+    },{
+        "id": 19,
+        "brand": "Sony",
+        "name": "Телевизор Sony KDL-50WF665 Full HD Smart TV",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ea6a57e4dac0.jpg",
+        "price": "5 832 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 20,
+        "brand": "Китай",
+        "name": "Smart TV приставка X96 Air 2/16 GB",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ea3ff84e14cb.jpg",
+        "price": "439 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 21,
+        "brand": "Китай",
+        "name": "Приставка Smart TV X96 Max + 2/16 ГБ",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ecde493bc215.jpg",
+        "price": "379 000 сум",
+        "feedback": "1 отзывов"
+    },{
+        "id": 22,
+        "brand": "Китай",
+        "name": "Антенна DVB T2 Узбекистан ТВ",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15c09cbb235.jpg",
+        "price": "84 000 сум",
+        "feedback": "2 отзывов"
+    },{
+        "id": 23,
+        "brand": "Телекарта ТВ",
+        "name": "Комплект Телекарта ТВ Премьер+ (220 каналов) + 2 года бесплатного  просмотра",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bb81c1ba5.jpg",
+        "price": "1 499 000 сум",
+        "feedback": "23 отзывов"
+    },{
+        "id": 24,
+        "brand": "LG Electronics",
+        "name": "Кондиционер LG Artcool Stylist Inverter 12 (A12IWK)",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bbb0e4824.jpg",
+        "price": "12 305 000 сум",
+        "feedback": "1 отзывов"
+    },{
+        "id": 25,
+        "brand": "LG Electronics",
+        "name": "Кондиционер LG Dual Inverter 12 (P12SP)",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e9ab4dab0fbc.jpg",
+        "price": "5 564 000 сум",
+        "feedback": "3 отзывов"
+    },{
+        "id": 26,
+        "brand": "LG Electronics",
+        "name": "Кондиционер LG Dual Inverter 24 (P24SP)",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e9ab5f8827e7.jpg",
+        "price": "8 881 000 сум",
+        "feedback": "2 отзывов"
+    },{
+        "id": 27,
+        "brand": "LG Electronics",
+        "name": "Кондиционер LG Dual Inverter 18 (P18SP)",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e9ab5811d2a6.jpg",
+        "price": "7 704 000 сум",
+        "feedback": "1 отзывов"
+    },{
+        "id": 28,
+        "brand": "Gree",
+        "name": "Кондиционер Gree Bora Inverter 12",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bbd133a23.png",
+        "price": "4 976 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 29,
+        "brand": "Gree",
+        "name": "Кондиционер Gree Lomo Inverter 12",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bdd27eff1.png",
+        "price": "5 350 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 30,
+        "brand": "LG Electronics",
+        "name": "Кондиционер LG Artcool Dual Inverter Wi-Fi 12 (AC12BQ)",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e9ab08fee62b.jpg",
+        "price": "7 062 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 31,
+        "brand": "LG Electronics",
+        "name": "Кондиционер LG Artcool Stylist Inverter 09 (A09IWK)",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bd4521444.jpg",
+        "price": "10 700 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 32,
+        "brand": "LG Electronics",
+        "name": "Кондиционер LG Dual Inverter 09 (P09SP2)",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e9ab45e2e8b0.jpg",
+        "price": "5 350 000 сум",
+        "feedback": "1 отзывов"
+    },{
+        "id": 33,
+        "brand": "Gree",
+        "name": "Кондиционер Gree Fairy Inverter 12",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15c08f80e34.jpg",
+        "price": "5 350 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 34,
+        "brand": "Gree",
+        "name": "Кондиционер Gree Bora Inverter 09",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15c02140e28.png",
+        "price": "4 601 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 35,
+        "brand": "Sitronic",
+        "name": "Кондиционер Sitronic CORAL DC Inverter 12",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e830740c200a.jpg",
+        "price": "4 708 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 36,
+        "name": "Лариса Буракова: Грузия муваффақиятга қандай эришди",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//608bfaccc1cc1.png",
+        "price": "49 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 37,
+        "name": "Йона Бергер: Юқумлилик. Маҳсулот ва ғоялар қандай оммалашади",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//6087f36e2cbb3.png",
+        "price": "69 000 сум",
+        "feedback": "0 отзывов"
+    },{
+        "id": 38,
+        "name": "2020-йилнинг энг бестселлер китоблар туплами (20та китоб)",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15c24ab3e67.jpg",
+        "price": "557 000 сум",
+        "feedback": "29 отзывов"
+    },{
+        "id": 39,
+        "name": "Дэн Браун: Ибтидо",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//607155949c535.png",
+        "price": "69 000 сум",
+        "feedback": "16 отзывов"
+    },{
+        "id": 40,
+        "name": "Уолтер Айзексон: Стив Жобс",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5f4e05aa6ebe8.png",
+        "price": "59 000 сум",
+        "feedback": "53 отзывов"
+    },{
+        "id": 41,
+        "name": "Ҳенри Форд: Менинг ҳаётим",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5f8ec73515f1d.png",
+        "price": "49 000 сум",
+        "feedback": "31 отзывов"
+    },{
+        "id": 42,
+        "name": "Тони Шей: Бахт етказиш. Миллиард долларлик интернет дўкон тарихи",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5fa10e9051ec5.png",
+        "price": "99 000 сум",
+        "feedback": "268 отзывов"
+    },{
+        "id": 43,
+        "name": "Малкольм Гладуэлл: Зукколар ва ландавурлар  (Қаттиқ муқова)",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//60449aab902bf.png",
+        "price": "29 000 сум",
+        "feedback": "11 отзывов"
+    },{
+        "id": 44,
+        "name": "Бизнесга оид 10 та энг сара адабиётлар",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//605d815ad7b87.jpg",
+        "price": "470 000 сум",
+        "feedback": "9 отзывов"
+    },{
+        "id": 45,
+        "name": "Стивен Р. Кови: Муваффақиятли инсонларнинг 7 кўникмаси",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ffaa2d698abf.png",
+        "price": "49 000 сум",
+        "feedback": "18 отзывов"
+    },{
+        "id": 46,
+        "name": "Мич Элбом: Моррининг сешанба дарслари",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//60603821c7b68.png",
+        "price": "19 000 сум",
+        "feedback": "2 отзывов"
+    },{
+        "id": 47,
+        "name": "Жавлон Жовлиев: Қўрқма",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//6059f5e51c25d.png",
+        "price": "39 000 сум",
+        "feedback": "30 отзывов"
+    }
+]

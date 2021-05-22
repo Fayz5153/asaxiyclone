@@ -1,0 +1,85 @@
+[{
+    "id": 0,
+    "brand": "LG Electronics",
+    "name": "Телевизор LG 65SM8600 NanoCell 4K UHD Smart TV",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15c26c034ad.jpg",
+    "price": "15 943 000 сум",
+    "feedback": "6 отзывов"
+},{
+    "id": 1,
+    "brand": "LG Electronics",
+    "name": "Телевизор LG 43LM5500 Full HD",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bd56b0f4c.png",
+    "price": "3 306 000 сум",
+    "feedback": "8 отзывов"
+},{
+    "id": 2,
+    "brand": "Sony",
+    "name": "Телевизор Sony KDL-43WF665 Full HD Smart TV",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ea6a51b671d1.jpg",
+    "price": "4 387 000 сум",
+    "feedback": "0 отзывов"
+},{
+    "id": 3,
+    "brand": "Artel",
+    "name": "Телевизор Artel UA32H4101 LED TV",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e902cce6eb96.jpg",
+    "price": "2 001 000 сум",
+    "feedback": "0 отзывов"
+},{
+    "id": 4,
+    "brand": "LG Electronics",
+    "name": "Телевизор LG 43LM5700 Full HD Smart TV",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ec35f5ec2529.jpg",
+    "price": "3 745 000 сум",
+    "feedback": "3 отзывов"
+},{
+    "id": 5,
+    "brand": "LG Electronics",
+    "name": "Телевизор LG 49UM7490 4K UHD Smart TV",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bfc1f1e92.jpg",
+    "price": "5 725 000 сум",
+    "feedback": "1 отзывов"
+},{
+    "id": 6,
+    "brand": "LG Electronics",
+    "name": "Телевизор LG OLED65C9P 4K UHD Smart TV",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bc4a8ef80.jpg",
+    "price": "26 322 000 сум",
+    "feedback": "28 отзывов"
+},{
+    "id": 7,
+    "brand": "Sony",
+    "name": "Телевизор Sony KDL-50WF665 Full HD Smart TV",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ea6a57e4dac0.jpg",
+    "price": "5 832 000 сум",
+    "feedback": "0 отзывов"
+},{
+    "id": 8,
+    "brand": "Китай",
+    "name": "Smart TV приставка X96 Air 2/16 GB",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ea3ff84e14cb.jpg",
+    "price": "439 000 сум",
+    "feedback": "0 отзывов"
+},{
+    "id": 9,
+    "brand": "Китай",
+    "name": "Приставка Smart TV X96 Max + 2/16 ГБ",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ecde493bc215.jpg",
+    "price": "379 000 сум",
+    "feedback": "1 отзывов"
+},{
+    "id": 10,
+    "brand": "Китай",
+    "name": "Антенна DVB T2 Узбекистан ТВ",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15c09cbb235.jpg",
+    "price": "84 000 сум",
+    "feedback": "2 отзывов"
+},{
+    "id": 11,
+    "brand": "Телекарта ТВ",
+    "name": "Комплект Телекарта ТВ Премьер+ (220 каналов) + 2 года бесплатного  просмотра",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bb81c1ba5.jpg",
+    "price": "1 499 000 сум",
+    "feedback": "23 отзывов"
+}]

@@ -1,0 +1,321 @@
+.carusel-big {
+  width: 780px;
+  height: auto;
+  border-radius: 20px;
+}
+
+.carusel-big img {
+  border-radius: 20px;
+}
+
+.carusel-big .carousel-item {
+  border-radius: 20px;
+}
+
+.carusels1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.carusel1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.carusel2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.carusel-big2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.pslayd {
+  padding: 5px;
+  text-align: center;
+}
+
+.carusel1_1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  width: 315px;
+  height: 165px;
+  margin: 20px 0px 0px 20px;
+  background: white;
+  border-radius: 20px;
+  margin: 10px 10px;
+}
+
+.carusel1_1 h1 {
+  width: 100px;
+  padding: 5px;
+  font-size: 14px;
+  background: #008DFF;
+  text-align: center;
+  border-radius: 7px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.carusel1_1 p {
+  font-size: 13px;
+  margin-left: 10px;
+}
+
+.carusel1_1 img {
+  width: 90px;
+  border-radius: 20px;
+}
+
+.carusel1_1 .carousel-control-next-icon, .carusel1_1 .carousel-control-prev-icon {
+  background: 50%/100% 100% no-repeat #008DFF;
+  padding: 1px;
+  border-radius: 20px;
+  width: 15px;
+  height: 15px;
+}
+
+.carusel1_1 .carousel-control-prev {
+  position: absolute;
+  width: 20px !important;
+  height: 20px !important;
+  margin: 10px 0px 0px 270px !important;
+}
+
+.carusel1_1 .carousel-control-next {
+  position: absolute;
+  width: 20px !important;
+  height: 20px !important;
+  margin: 10px 15px 0px 0px !important;
+}
+
+.carusel1_1 .carousel-indicators {
+  display: none;
+}
+
+.carusel1_2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 215px;
+  height: 165px;
+  background: white;
+  border-radius: 20px;
+  margin: 10px 10px;
+}
+
+.carusel1_2 h1 {
+  width: 100px;
+  padding: 5px;
+  font-size: 14px;
+  background: #008DFF;
+  text-align: center;
+  border-radius: 7px;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+.carusel1_2 p {
+  font-size: 13px;
+  margin-left: 10px;
+}
+
+.carusel1_2 img {
+  width: 90px;
+  border-radius: 20px;
+}
+
+.carusel1_2 .carousel-control-next-icon, .carusel1_2 .carousel-control-prev-icon {
+  background: 50%/100% 100% no-repeat #008DFF;
+  padding: 1px;
+  border-radius: 20px;
+  width: 15px;
+  height: 15px;
+}
+
+.carusel1_2 .carousel-indicators {
+  display: none;
+}
+
+.carusel1_2 .carousel-control-prev {
+  position: absolute;
+  width: 20px !important;
+  height: 20px !important;
+  margin: 5px 0px 0px 10px !important;
+}
+
+.carusel1_2 .carousel-control-next {
+  position: absolute;
+  width: 20px !important;
+  height: 20px !important;
+  margin: 5px 160px 0px 0px !important;
+}
+
+.carusel2_1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 310px;
+  margin: 20px 0px 0px 20px;
+}
+
+.carusel2_2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 215px;
+}
+
+.carusels2 {
+  margin-top: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.mainchap1 {
+  background: white;
+  width: 280px;
+  height: 480px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  border-radius: 20px;
+}
+
+.bookslider {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  width: 240px;
+  height: auto;
+  margin: 10px;
+}
+
+.bookslider img {
+  width: 45px;
+  height: 45px;
+}
+
+.haftatavari {
+  font-size: 14px;
+  line-height: 24px;
+  color: #858997;
+  margin-right: 165px;
+}
+
+.mainchap2 .category {
+  background: white;
+  width: 280px;
+  height: 480px;
+  margin-top: 30px;
+}
+
+.mainchap3 .category {
+  background: white;
+  width: 280px;
+  height: 480px;
+  margin-top: 30px;
+}
+
+.mailslayd {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 955px;
+  height: 415px;
+  background: white;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+.mainslayd1 {
+  width: 985px;
+  border-radius: 20px;
+  background: white;
+  padding: 20px 20px;
+  height: 480px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+.mainslayd1 .pnew {
+  position: absolute;
+  z-index: 1000;
+  font-size: 16px;
+  line-height: 24px;
+  color: #858997;
+}
+
+.mainslayd1 .category {
+  height: 400px;
+  width: 260px;
+  border-right: 1px solid #eeeff3;
+  border-radius: 0px;
+}
+
+.mainslayd1 .carousel-item {
+  border-radius: 20px;
+}
+
+.mainslayd1 .carousel-control-prev {
+  position: absolute;
+  width: 40px !important;
+  height: 25px !important;
+  margin: -5px 0px 0px 850px !important;
+  background: #008DFF;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.mainslayd1 .carousel-control-next {
+  position: absolute;
+  width: 40px !important;
+  height: 25px !important;
+  margin: -5px 10px 0px 0px !important;
+  background: #008DFF;
+  border-radius: 10px;
+  padding: 12px;
+}
+/*# sourceMappingURL=slider.css.map */

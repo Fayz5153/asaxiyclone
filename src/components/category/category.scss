@@ -1,0 +1,130 @@
+.category{
+    padding: 20px 0px 30px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 430px;
+    width: 250px;
+    background: white;
+    border-radius: 20px;
+}
+.category-asos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+.image{
+    img{
+        width: 140px;
+    }
+}
+.title{
+    p{
+        color: black;
+        line-height: 16px;
+        font-family: "Yandex Sans Text", sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        width: 200px;
+        height: 80px;
+        margin-top: 15px;
+        margin-bottom: 0px;
+    }
+    p:hover{
+        color: #007bff;
+    }
+}
+.back{
+    display: flex;
+    align-items:center;
+    justify-content: left;
+    height: 35px;
+    a{
+    color: white;
+    background: #007bff;
+    padding: 10px 15px;
+    width: 70px;
+    height: 35px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+   a:hover{
+    color: white;
+    background: #0071cc;
+} 
+p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #858997;
+    margin-top: 10px;
+}
+}
+
+.feedback{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    .chat{
+        width: 20px;
+        margin: 0px 5px 2px 0px;
+    }
+    .star{
+        width: 60px;
+        margin: 0px 60px 11px 0px;
+    }
+    p{
+        text-align: right;
+        color: black;
+        line-height: 16px;
+        font-family: "Yandex Sans Text", sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        // margin-left: 160px;
+    }
+}
+.price{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    p{
+        font-size: 18px;
+        line-height: 20px;
+        color: #141821;
+        font-family: "Yandex Sans Text", sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        margin: 5px 50px 0px 0px;
+    }
+    img{
+        width: 30px;
+    }
+}
+.brand{
+    display: flex;
+    justify-content: left;
+    margin-top: 10px;
+    width: 200px;
+    a{
+        font-size: 12px;
+        line-height: 20px;
+        border-radius: 6px;
+        background: #007bff;
+        text-decoration: none;
+        color: white;
+        padding: 5px 10px;
+    }
+    a:hover{
+        color: white;
+        background: #0467d1;
+        transition: 0.7s;
+    }
+}

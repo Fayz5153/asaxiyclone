@@ -1,0 +1,169 @@
+.asos-links {
+  background: #f4f7fd;
+  width: 100%;
+}
+
+.carusel3_1 {
+  height: 140px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 1300px;
+  background: white;
+  border-radius: 25px;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.carusel3_1 img {
+  width: 120px;
+  margin: 10px 70px 10px 70px;
+}
+
+.brands {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  -webkit-animation-name: brand;
+          animation-name: brand;
+  -webkit-animation-duration: 30s;
+          animation-duration: 30s;
+  -webkit-animation-timing-function: ease-in;
+          animation-timing-function: ease-in;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+
+.carusel3_2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  height: 250px;
+  overflow: hidden;
+  width: 100%;
+  background: #008DFF;
+  border-radius: 20px;
+  margin-bottom: 30px;
+}
+
+.appimg {
+  margin-top: 250px;
+}
+
+.applink {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.applink img {
+  width: 150px;
+}
+
+.applink p {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  color: #fff;
+  margin: 30px auto;
+}
+
+.app-link {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.app-link img {
+  margin: auto 10px;
+}
+
+@-webkit-keyframes brand {
+  0% {
+    right: 0px;
+  }
+  10% {
+    right: 260px;
+  }
+  20% {
+    right: 520px;
+  }
+  30% {
+    right: 780px;
+  }
+  40% {
+    right: 1040px;
+  }
+  50% {
+    right: 1300px;
+  }
+  60% {
+    right: 1040px;
+  }
+  70% {
+    right: 780px;
+  }
+  80% {
+    right: 520px;
+  }
+  90% {
+    right: 260px;
+  }
+  100% {
+    right: 0px;
+  }
+}
+
+@keyframes brand {
+  0% {
+    right: 0px;
+  }
+  10% {
+    right: 260px;
+  }
+  20% {
+    right: 520px;
+  }
+  30% {
+    right: 780px;
+  }
+  40% {
+    right: 1040px;
+  }
+  50% {
+    right: 1300px;
+  }
+  60% {
+    right: 1040px;
+  }
+  70% {
+    right: 780px;
+  }
+  80% {
+    right: 520px;
+  }
+  90% {
+    right: 260px;
+  }
+  100% {
+    right: 0px;
+  }
+}
+/*# sourceMappingURL=Links.css.map */
